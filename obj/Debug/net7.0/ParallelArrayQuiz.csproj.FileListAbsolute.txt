@@ -1,0 +1,15 @@
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/bin/Debug/net7.0/ParallelArrayQuiz
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/bin/Debug/net7.0/ParallelArrayQuiz.deps.json
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/bin/Debug/net7.0/ParallelArrayQuiz.runtimeconfig.json
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/bin/Debug/net7.0/ParallelArrayQuiz.dll
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/bin/Debug/net7.0/ParallelArrayQuiz.pdb
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.csproj.AssemblyReference.cache
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.AssemblyInfoInputs.cache
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.AssemblyInfo.cs
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.csproj.CoreCompileInputs.cache
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.dll
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/refint/ParallelArrayQuiz.dll
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.pdb
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ParallelArrayQuiz.genruntimeconfig.cache
+/home/cypher/Desktop/PF1/ParallelArrayQuiz/obj/Debug/net7.0/ref/ParallelArrayQuiz.dll
